@@ -523,7 +523,7 @@ body {
 }
 .lk1,.lk2 {
 	text-decoration:none;
-	/*font-family: Microsoft YaHei;*/
+  font-family:'Oleo Script', cursive;
 	color:#fff;
 	transition:all 0.5s;
 }
